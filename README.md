@@ -6,7 +6,7 @@ Nome: Ana Flavia Gonçalves Barbosa
 Matricula: 894873
 
 ## Tela de inspeção com navegador
-![images](images/inspeç.png)
+![gov]](<Captura de tela 2025-04-03 005555.png>)
 
 ## Tela de projeto no Replit
-![images](images/hellow.jpeg)
+![helow](<ATIVIDIDADE PRINT SEMANA 1-1.jpeg>)
