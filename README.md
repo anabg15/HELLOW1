@@ -2,11 +2,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: Ana Flavia
+Nome: Ana Flavia Gonçalves Barbosa
 Matricula: 894873
 
 ## Tela de inspeção com navegador
-![alt text](image.png)
+![images](images/inspeç.png)
 
 ## Tela de projeto no Replit
-![alt text](<images/ATIVIDIDADE PRINT SEMANA 1.jpeg>)
+![images](images/hellow.jpeg)
