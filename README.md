@@ -2,11 +2,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: Tulio Henrique
-Matricula: 888398
+Nome: Ana Flavia
+Matricula: 894873
 
 ## Tela de inspeção com navegador
 ![alt text](image.png)
 
 ## Tela de projeto no Replit
-
+![alt text](<images/ATIVIDIDADE PRINT SEMANA 1.jpeg>)
